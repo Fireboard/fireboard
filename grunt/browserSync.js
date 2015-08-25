@@ -2,7 +2,7 @@ module.exports = {
   server: {
     options: {
       server: {
-        baseDir: 'app',
+        baseDir: ['app', 'tmp'],
       },
       port: 9000
     }

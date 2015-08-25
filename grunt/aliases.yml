@@ -1,4 +1,5 @@
 server:
+  - jade
   - browserSync:server
 
 serve:
