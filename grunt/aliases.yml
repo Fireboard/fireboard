@@ -1,5 +1,6 @@
 server:
   - sass:server
+  - coffee:server
   - jade
   - browserSync:server
 
