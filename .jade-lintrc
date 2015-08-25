@@ -1,0 +1,38 @@
+{
+  "disallowBlockExpansion": true,
+  "disallowClassLiterals": true,
+  "disallowClassLiteralsBeforeAttributes": true,
+  "disallowClassLiteralsBeforeIdLiterals": true,
+  "disallowDuplicateAttributes": true,
+  "disallowHtmlText": true,
+  "disallowIdLiterals": true,
+  "disallowIdLiteralsBeforeAttributes": null,
+  "disallowImplicitDiv": true,
+  "disallowMultipleLineBreaks": true,
+  "disallowSpaceAfterCodeOperator": null,
+  "disallowSpacesInsideAttributeBrackets": true,
+  "disallowSpecificAttributes": null,
+  "disallowSpecificTags": [
+    "b"
+  ],
+  "disallowStringConcatenation": true,
+  "disallowStringInterpolation": true,
+  "disallowTagInterpolation": null,
+  "maximumNumberOfLines": null,
+  "requireClassLiteralsBeforeAttributes": true,
+  "requireClassLiteralsBeforeIdLiterals": true,
+  "requireIdLiteralsBeforeAttributes": true,
+  "requireLineFeedAtFileEnd": true,
+  "requireLowerCaseAttributes": true,
+  "requireLowerCaseTags": true,
+  "requireSpaceAfterCodeOperator": true,
+  "requireSpacesInsideAttributeBrackets": null,
+  "requireSpecificAttributes": [{
+    "img": ["alt", "src"]
+  }],
+  "validateAttributeQuoteMarks": "'",
+  "validateAttributeSeparator": ", ",
+  "validateIndentation": 2,
+  "validateLineBreaks": "LF",
+  "validateSelfClosingTags": true
+}
