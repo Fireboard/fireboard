@@ -4,6 +4,7 @@
   "description": "The dashboard theme for your projects.",
   "license": "MIT",
   "ignore": [
-    "**/.*"
+    "**/.*",
+    "node_modules"
   ]
 }
