@@ -1,0 +1,17 @@
+{
+  "name": "fireboard",
+  "version": "0.0.0",
+  "description": "The dashboard theme for your projects.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fireboard/fireboard.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fireboard/fireboard/issues"
+  },
+  "homepage": "https://github.com/fireboard/fireboard#readme"
+}
