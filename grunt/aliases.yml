@@ -1,4 +1,5 @@
 server:
+  - sass:server
   - jade
   - browserSync:server
 
