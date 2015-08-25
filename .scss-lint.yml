@@ -1,0 +1,15 @@
+linters:
+  DuplicateProperty:
+    enabled: false
+  ImportantRule:
+    enabled: false
+  QualifyingElement:
+    allow_element_with_attribute: true
+  NestingDepth:
+    enabled: true
+    max_depth: 4
+    ignore_parent_selectors: false
+  SelectorFormat:
+    convention: hyphenated_BEM
+  VendorPrefix:
+    enabled: false
