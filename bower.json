@@ -1,0 +1,9 @@
+{
+  "name": "fireboard",
+  "homepage": "https://github.com/fireboard/fireboard",
+  "description": "The dashboard theme for your projects.",
+  "license": "MIT",
+  "ignore": [
+    "**/.*"
+  ]
+}
