@@ -3,6 +3,7 @@ server:
   - coffee:server
   - jade
   - browserSync:server
+  - watch
 
 serve:
   - server

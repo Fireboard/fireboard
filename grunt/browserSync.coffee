@@ -1,4 +1,6 @@
 module.exports =
+  options:
+    background: true
   server:
     options:
       server:
