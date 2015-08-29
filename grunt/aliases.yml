@@ -1,4 +1,5 @@
 server:
+  - wiredep
   - sass:server
   - autoprefixer:server
   - coffee:server

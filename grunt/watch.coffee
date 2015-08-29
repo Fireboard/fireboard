@@ -1,4 +1,9 @@
 module.exports =
+  bower:
+    files: ['bower.json']
+    tasks: ['wiredep']
+    options:
+      event: 'changed'
   jade:
     files: ['app/views/**/*.jade']
     tasks: ['jade:compile']
